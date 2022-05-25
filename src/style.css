@@ -20,8 +20,8 @@ body {
   justify-content: center;
   align-items: center;
 }
- 
-   /* border: 1px solid black; */
+
+/* border: 1px solid black; */
 
 h1 {
   text-align: center;
@@ -81,7 +81,7 @@ h1 {
   border: 0;
   box-shadow: 4px 4px 4px 4px;
 }
- 
+
 .score-item:nth-child(odd) { background-color: lightgrey; }
 .score-item:nth-child(2n) { background-color: white; }
 

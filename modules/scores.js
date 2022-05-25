@@ -1,26 +1,26 @@
 const scores = [
   {
-    name: "John",
+    name: 'John',
     score: 30,
   },
   {
-    name: "Mathews",
+    name: 'Mathews',
     score: 25,
   },
   {
-    name: "Eric",
+    name: 'Eric',
     score: 20,
   },
   {
-    name: "Daniel",
+    name: 'Daniel',
     score: 17,
   },
   {
-    name: "Joshua",
+    name: 'Joshua',
     score: 15,
   },
   {
-    name: "Mutale",
+    name: 'Mutale',
     score: 10,
   },
 ];
