@@ -10,7 +10,7 @@
 - JAVASCRIPT
 
 ## Live Demo (if available)
-[Live Demo Link](https://medsonmoombe.github.io/leaderboad/)
+[Live Demo Link]
 
 
 
@@ -66,10 +66,9 @@ npx eslint .
 
 👤 **Author1**
 
-- GitHub: [@medsonmoombe](https://github.com/medsonmoombe)
-- Twitter: [@emmanue78388405](https://twitter.com/@emmanue78388405)
-- LinkedIn: [@Emmanuel moombe](https://www.linkedin.com/in/emmanuel-moombe-821918230/)
-
+-  GitHub: [@principle31](https://github.com/principles31)
+- Twitter: [@manuel31mens](https://Twiter.com/@Manuel31mens)
+- LinkedIn: [emmanuel-mensah](www.linkedin.com/in/emmanuel-mensah-6a044922a)
 
 ## Show your support
 
