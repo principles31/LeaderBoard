@@ -2,28 +2,27 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Description.
-> this project is about the leaderboad i did during Microverse to build a website for adding and removing the scores using ES6 modules and webpak.Done using HTML, CSS and JAVASCRIPT
+> this project is about the leaderboad i did during Microverse to build a website for adding and removing the scores using ES6 modules Api and webpak.Done using HTML, CSS and JAVASCRIPT
 ## Built With
-
 - HTML
 - CSS
 - JAVASCRIPT
 
+# Technology Used
+- webpack
+- Api
+
 ## Live Demo (if available)
-[Live Demo Link]
+[Live Demo Link] ( https://principles31.github.io/LeaderBoard/)
 
-
+## A screenshot
+- Screenshot from 2022-05-26 07-53-14.png
 
 ## Getting Started
-
-
 To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
-
 - Web browser
 - Code editor
-
 ### Setup
 ```bash
 git clone (git@github.com:principles31/LeaderBoard.git)
@@ -59,9 +58,6 @@ ESLint
 ```bash
 npx eslint .
 ```
-
-
-
 ## Authors
 
 👤 **Author1**
@@ -75,12 +71,12 @@ npx eslint .
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
+- Microverse
 - Hat tip to anyone whose code was used
 
 ## 📝 License
 
-This project is [MIT](https://github.com/medsonmoombe/leaderboad/blob/development-branch/LICENSE) licensed.
+This project is [MIT](https://git@github.com:principles31/LeaderBoard.git/blob/dev_branch/LICENSE) licensed.
 
 ## 🤝 Contributing
 
