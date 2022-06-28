@@ -1,5 +1,6 @@
 # LeaderBoard
-![](https://img.shields.io/badge/Microverse-blueviolet)
+> ![](https://img.shields.io/badge/Microverse-blueviolet)
+> ![leaderBoard](https://user-images.githubusercontent.com/90258833/176212125-a7fd6649-ce38-4b5a-a837-4bbd7bc92632.png)
 
 # Project Description.
 > this project is about the leaderboad i did during Microverse to build a website for adding and removing the scores using ES6 modules Api and webpak.Done using HTML, CSS and JAVASCRIPT
@@ -12,11 +13,7 @@
 - webpack
 - Api
 
-## Live Demo (if available)
-[Live Demo Link] ( https://principles31.github.io/LeaderBoard/)
-
-## A screenshot
-- Screenshot from 2022-05-26 07-53-14.png
+## Live Demo (https://principles31.github.io/LeaderBoard/)
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
