@@ -13,8 +13,6 @@
 - webpack
 - Api
 
-## Live Demo (https://principles31.github.io/LeaderBoard/)
-
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 ### Prerequisites
