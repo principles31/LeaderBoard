@@ -1,27 +1,27 @@
 const scores = [
   {
-    name: 'John',
-    score: 30,
-  },
-  {
-    name: 'Mathews',
-    score: 25,
-  },
-  {
-    name: 'Eric',
+    name: 'Emmanuel',
     score: 20,
   },
   {
-    name: 'Daniel',
-    score: 17,
+    name: 'Manuel',
+    score: 30,
   },
   {
-    name: 'Joshua',
+    name: 'Mens',
+    score: 38,
+  },
+  {
+    name: 'Eddison',
+    score: 6,
+  },
+  {
+    name: 'Brayden',
     score: 15,
   },
   {
-    name: 'Mutale',
-    score: 10,
+    name: 'Edward',
+    score: 34,
   },
 ];
 export default scores;
