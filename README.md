@@ -1,6 +1,6 @@
 # LeaderBoard
 > ![](https://img.shields.io/badge/Microverse-blueviolet)
-> ![leaderBoard](https://user-images.githubusercontent.com/90258833/176212125-a7fd6649-ce38-4b5a-a837-4bbd7bc92632.png)
+> ![leader](https://user-images.githubusercontent.com/90258833/210363448-c4ebb5f0-807a-460b-9cd6-f7c0f3aeb3b0.PNG)
 
 # Project Description.
 > this project is about the leaderboad i did during Microverse to build a website for adding and removing the scores using ES6 modules Api and webpak.Done using HTML, CSS and JAVASCRIPT
