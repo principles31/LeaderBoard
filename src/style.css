@@ -9,7 +9,7 @@
 body {
   list-style: none;
   font-family: 'Roboto', sans-serif;
-  background: darkcyan;
+  background: linear-gradient(#006d77, #577590);
 }
 
 .main-content {
@@ -20,7 +20,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: darkcyan;
+  background-color: #b392ac;
   box-shadow: 13px 9px 42px 10px;
   border-radius: 8px;
   padding: 10px;
